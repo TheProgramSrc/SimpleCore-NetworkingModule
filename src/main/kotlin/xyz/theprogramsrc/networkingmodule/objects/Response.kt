@@ -3,8 +3,11 @@ package xyz.theprogramsrc.networkingmodule.objects
 import java.io.InputStream
 import java.net.HttpURLConnection
 
-class Response(val request: Request, val connection: HttpURLConnection) {
+class Response(val connection: HttpURLConnection) {
 
+    /**
+     * The expected response code
+     */
     var expectedStatusCode: Int = 200
 
     /**
@@ -14,10 +17,10 @@ class Response(val request: Request, val connection: HttpURLConnection) {
     fun wasSuccessful(): Boolean = connection.responseCode == expectedStatusCode
 
     /**
-     * Gets the response code
-     * @return the response code
+     * Gets the status code
+     * @return the status code
      */
-    fun getResponseCode(): Int = connection.responseCode
+    fun getStatusCode(): Int = connection.responseCode
 
     /**
      * Gets the response message
