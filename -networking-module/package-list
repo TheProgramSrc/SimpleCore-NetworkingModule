@@ -1,0 +1,42 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:xyz.theprogramsrc.networkingmodule.builder////PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.builder/index.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.builder/Request///PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.builder/-request/index.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.builder/Request/Request/#kotlin.String/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.builder/-request/-request.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.builder/Request/body/#/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.builder/-request/body.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.builder/Request/body/#kotlin.String/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.builder/-request/body.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.builder/Request/connect/#/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.builder/-request/connect.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.builder/Request/delete/#/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.builder/-request/delete.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.builder/Request/get/#/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.builder/-request/get.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.builder/Request/header/#kotlin.String#kotlin.String/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.builder/-request/header.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.builder/Request/headers/#/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.builder/-request/headers.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.builder/Request/method/#/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.builder/-request/method.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.builder/Request/post/#/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.builder/-request/post.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.builder/Request/put/#/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.builder/-request/put.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.builder/Request/timeout/#/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.builder/-request/timeout.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.builder/Request/timeout/#kotlin.Int/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.builder/-request/timeout.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.builder/Request/url/#/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.builder/-request/url.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.builder/Request/useCache/#/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.builder/-request/use-cache.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.builder/Request/useCache/#kotlin.Boolean/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.builder/-request/use-cache.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.objects////PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.objects/index.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.objects/Response///PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.objects/-response/index.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.objects/Response/Response/#java.net.HttpURLConnection/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.objects/-response/-response.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.objects/Response/connection/#/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.objects/-response/connection.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.objects/Response/expectedStatusCode/#/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.objects/-response/expected-status-code.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.objects/Response/getResponseHeader/#kotlin.String#kotlin.Int/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.objects/-response/get-response-header.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.objects/Response/getResponseHeader/#kotlin.String/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.objects/-response/get-response-header.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.objects/Response/getResponseHeaderCount/#kotlin.String/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.objects/-response/get-response-header-count.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.objects/Response/getResponseHeaderNames/#/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.objects/-response/get-response-header-names.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.objects/Response/getResponseHeaders/#/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.objects/-response/get-response-headers.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.objects/Response/getResponseMessage/#/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.objects/-response/get-response-message.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.objects/Response/getResponseStream/#/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.objects/-response/get-response-stream.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.objects/Response/getResponseString/#/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.objects/-response/get-response-string.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.objects/Response/getStatusCode/#/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.objects/-response/get-status-code.html
+$dokka.location:xyz.theprogramsrc.networkingmodule.objects/Response/wasSuccessful/#/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.objects/-response/was-successful.html
+$dokka.location:xyz.theprogramsrc.networkingmodule////PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule/index.html
+$dokka.location:xyz.theprogramsrc.networkingmodule/Main///PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule/-main/index.html
+$dokka.location:xyz.theprogramsrc.networkingmodule/Main/Main/#/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule/-main/-main.html
+xyz.theprogramsrc.networkingmodule
+xyz.theprogramsrc.networkingmodule.builder
+xyz.theprogramsrc.networkingmodule.objects
+
