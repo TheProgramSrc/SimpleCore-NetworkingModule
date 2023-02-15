@@ -1,0 +1,7 @@
+$dokka.format:javadoc-v1
+$dokka.linkExtension:html
+
+xyz.theprogramsrc.networkingmodule
+xyz.theprogramsrc.networkingmodule.builder
+xyz.theprogramsrc.networkingmodule.objects
+
