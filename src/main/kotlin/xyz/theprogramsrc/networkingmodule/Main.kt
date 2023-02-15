@@ -1,3 +1,5 @@
 package xyz.theprogramsrc.networkingmodule
 
-class Main
+import xyz.theprogramsrc.simplecoreapi.global.module.Module
+
+class Main: Module()
