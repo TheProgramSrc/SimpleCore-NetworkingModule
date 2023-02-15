@@ -1,11 +1,8 @@
 package xyz.theprogramsrc.networkingmodule.builder
 
+import com.google.gson.*
 import org.junit.jupiter.api.Assertions.*
-import org.junit.jupiter.api.DisplayName
-import org.junit.jupiter.api.Nested
-import org.junit.jupiter.api.Test
-import xyz.theprogramsrc.simplecoreapi.libs.google.gson.JsonObject
-import xyz.theprogramsrc.simplecoreapi.libs.google.gson.JsonParser
+import org.junit.jupiter.api.*
 
 @DisplayName("Http Requests Test")
 internal class RequestTest {
