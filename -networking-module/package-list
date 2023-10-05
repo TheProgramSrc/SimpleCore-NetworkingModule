@@ -34,8 +34,11 @@ $dokka.location:xyz.theprogramsrc.networkingmodule.objects/Response/getResponseS
 $dokka.location:xyz.theprogramsrc.networkingmodule.objects/Response/getStatusCode/#/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.objects/-response/get-status-code.html
 $dokka.location:xyz.theprogramsrc.networkingmodule.objects/Response/wasSuccessful/#/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule.objects/-response/was-successful.html
 $dokka.location:xyz.theprogramsrc.networkingmodule////PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule/index.html
-$dokka.location:xyz.theprogramsrc.networkingmodule/Main///PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule/-main/index.html
-$dokka.location:xyz.theprogramsrc.networkingmodule/Main/Main/#/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule/-main/-main.html
+$dokka.location:xyz.theprogramsrc.networkingmodule/NetworkingModule///PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule/-networking-module/index.html
+$dokka.location:xyz.theprogramsrc.networkingmodule/NetworkingModule/NetworkingModule/#/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule/-networking-module/-networking-module.html
+$dokka.location:xyz.theprogramsrc.networkingmodule/NetworkingModule/description/#/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule/-networking-module/description.html
+$dokka.location:xyz.theprogramsrc.networkingmodule/NetworkingModule/onDisable/#/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule/-networking-module/on-disable.html
+$dokka.location:xyz.theprogramsrc.networkingmodule/NetworkingModule/onEnable/#/PointingToDeclaration/-networking-module/xyz.theprogramsrc.networkingmodule/-networking-module/on-enable.html
 xyz.theprogramsrc.networkingmodule
 xyz.theprogramsrc.networkingmodule.builder
 xyz.theprogramsrc.networkingmodule.objects
