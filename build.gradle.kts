@@ -38,7 +38,7 @@ repositories {
 dependencies {
     compileOnly("xyz.theprogramsrc:simplecoreapi:0.8.0-SNAPSHOT")
 
-    compileOnly("org.spigotmc:spigot-api:1.20.2-R0.1-SNAPSHOT")
+    compileOnly("org.spigotmc:spigot-api:1.20.2-experimental-SNAPSHOT")
     compileOnly("net.md-5:bungeecord-api:1.20-R0.2-SNAPSHOT")
 
     testImplementation("org.junit.jupiter:junit-jupiter:5.10.0")
